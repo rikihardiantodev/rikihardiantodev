@@ -17,7 +17,7 @@
 
 ### 👋 Hi, I'm Riki!
 
-> “I build worlds, not just games.”
+> “Sedang Belajar Menjadi game Dev kecil.”
 
 I'm a passionate **Game Developer** who combines **creativity** and **technology** to design immersive gaming experiences.  
 From pixel-art adventures to cyberpunk 3D worlds — I love experimenting, learning, and building things that inspire others.
