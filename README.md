@@ -59,7 +59,7 @@ From pixel-art adventures to cyberpunk 3D worlds — I love experimenting, learn
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://rikihardiantodev.itch.io">
+  <a href="https://riki-hardianto.itch.io/">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?logo=itch.io&style=for-the-badge&logoColor=white" />
   </a>
   &nbsp;
