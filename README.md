@@ -1,40 +1,73 @@
-# 👾 Cid Kagenou
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Riki%20Hardianto%20&fontSize=40&fontColor=00ffff&animation=fadeIn&fontAlignY=35)
 
-### 🎮 Game Developer | 🧠 AI Enthusiast | 💻 Code Artisan
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=27&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=🎮+Game+Developer;💡+Tech+Explorer;🔥+Creator+of+Virtual+Worlds" alt="Typing Animation" />
+</p>
 
-Hi! I'm a passionate **Game Developer** who loves creating worlds, mechanics, and stories through code.
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-- 🎮 **Game Engines:** Unity, Unreal Engine, Godot
-- 💡 **Languages:** C#, C++, Python
-- 🎨 **Tools:** Blender, Photoshop, Git, Figma
+### 👋 Hi, I'm Riki!
+
+> “I build worlds, not just games.”
+
+I'm a passionate **Game Developer** who combines **creativity** and **technology** to design immersive gaming experiences.  
+From pixel-art adventures to cyberpunk 3D worlds — I love experimenting, learning, and building things that inspire others.
 
 ---
 
 ### 🚀 Featured Projects
-- 🕹️ [Shadowverse Arena](https://github.com/username/shadowverse-arena) – A dark fantasy RPG prototype made in Unity.
-- 🎲 [2D Dungeon Crawler](https://github.com/username/2d-dungeon) – Roguelike built with Godot.
+
+| 🕹️ Game | 🧩 Engine | 📝 Description |
+|----------|-----------|----------------|
+| [**Cyber Dash**](https://github.com/rikihardiantodev/cyber-dash) | Unity | A fast-paced neon parkour game through a cyber city. |
+| [**Echo of Shadows**](https://github.com/rikihardiantodev/echo-of-shadows) | Godot | Atmospheric 2D action-RPG with procedural maps. |
+| [**Mecha Arena**](https://github.com/rikihardiantodev/mecha-arena) | Unreal Engine | Multiplayer mech combat prototype. |
+
+🎯 More on my [Itch.io page](https://rikihardiantodev.itch.io)
 
 ---
 
-### 📫 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/username)
-[![Itch.io](https://img.shields.io/badge/Itch.io-red?logo=itch.io)](https://username.itch.io/)
+### 🧠 Tech Stack
 
-![Cid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+- 🎮 **Game Engines:** Unity, Godot, Unreal Engine  
+- 🧰 **Languages:** C#, C++, Python  
+- 🎨 **Tools:** Blender, Photoshop, Figma, Git  
+- ☁️ **Other:** AI NPC Behavior, Procedural Generation, Game Physics  
 
-![banner](https://your-image-link-here.com/banner.gif)
+---
 
+### 📊 GitHub Stats
 
-### 🧩 Game Projects
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rikihardiantodev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikihardiantodev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-| Game | Engine | Description |
-|------|---------|-------------|
-| [Cyber Dash](https://github.com/username/cyber-dash) | Unity | Fast-paced parkour game |
-| [Pixel Quest](https://github.com/username/pixel-quest) | Godot | Retro 2D adventure game |
+### 🌐 Connect with Me
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/username/username/main/coding.gif">
+<p align="center">
+  <a href="https://github.com/rikihardiantodev">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://rikihardiantodev.itch.io">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?logo=itch.io&style=for-the-badge&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/rikihardiantodev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:rikihardiantodev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
+  </a>
+</p>
