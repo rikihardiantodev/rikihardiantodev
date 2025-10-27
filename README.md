@@ -32,7 +32,7 @@ From pixel-art adventures to cyberpunk 3D worlds — I love experimenting, learn
 | [**Echo of Shadows**](https://github.com/rikihardiantodev/echo-of-shadows) | Godot | Atmospheric 2D action-RPG with procedural maps. |
 | [**Mecha Arena**](https://github.com/rikihardiantodev/mecha-arena) | Unreal Engine | Multiplayer mech combat prototype. |
 
-🎯 More on my [Itch.io page](https://rikihardiantodev.itch.io)
+🎯 More on my [Itch.io page](https://riki-hardianto.itch.io/)
 
 ---
 
