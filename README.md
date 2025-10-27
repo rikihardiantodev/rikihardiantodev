@@ -63,7 +63,7 @@ From pixel-art adventures to cyberpunk 3D worlds — I love experimenting, learn
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?logo=itch.io&style=for-the-badge&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/rikihardiantodev">
+  <a href="www.linkedin.com/in/riki-hardianto-a714a2385">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" />
   </a>
   &nbsp;
